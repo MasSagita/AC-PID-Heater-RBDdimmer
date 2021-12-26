@@ -1,2 +1,7 @@
 # AC-PID-Heater-RBDdimmer
-This is RBDdimmer with PID control and some relay
+
+AC RBDdimmer PID control with tubidity sensor to detect water condition and relay to turn on or off the pump.
+
+*need some more pid tuning
+
+author: Mas Sagita
