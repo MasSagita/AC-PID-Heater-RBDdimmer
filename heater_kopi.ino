@@ -1,3 +1,10 @@
+/*
+  AC RBDdimmer with PID control
+  
+  author: Mas Sagita
+*/
+
+
 #include <OneWire.h>
 #include <LiquidCrystal_I2C.h>
 #include <RBDdimmer.h>
